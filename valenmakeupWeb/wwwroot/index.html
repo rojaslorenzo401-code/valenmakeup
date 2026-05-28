@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+
+    <!-- Hace que la página se vea bien en celulares -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Valen Makeup</title>
+
+    <!-- Conectamos el archivo de estilos -->
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <!-- Parte de arriba de la página -->
+    <header class="encabezado">
+        <h1>Valen Makeup</h1>
+        <p>Productos originales de maquillaje, cabello y cuidado personal</p>
+    </header>
+
+    <!-- Buscador y filtro -->
+    <section class="controles">
+        <input type="text"
+               id="buscador"
+               placeholder="Buscar producto...">
+
+        <select id="filtroCategoria">
+            <option value="todas">Todas las categorías</option>
+        </select>
+    </section>
+
+    <!-- Aquí se muestra cuántos productos se encontraron -->
+    <p id="cantidadProductos" class="cantidad"></p>
+
+    <!-- Aquí JavaScript pondrá todos los productos -->
+    <main id="contenedorProductos" class="productos"></main>
+
+    <!-- Mensaje mientras se cargan los productos -->
+    <p id="mensajeCarga" class="mensaje">Cargando productos...</p>
+
+    <!-- Conectamos el archivo JavaScript -->
+    <script src="script.js"></script>
+</body>
+</html>
