@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="Valen Makeup">
+  <rect width="720" height="330" fill="#ffffff"/>
+  <g transform="translate(505 26) rotate(-8)">
+    <path fill="#ef6f91" d="M4 70c20-42 52-62 96-58 26 2 47 15 67 42 13 17 26 29 39 34-24 32-61 48-109 48C53 136 23 115 4 70Z"/>
+    <path fill="#fff" d="M27 76c31 8 55 7 74-3 24-13 46-13 71 0-29 25-55 36-80 34-26-1-47-11-65-31Z"/>
+    <path fill="#db5a7d" opacity=".5" d="M31 52l20 22M60 31l12 37M94 20l1 44M131 26l-12 41M161 39l-22 38M184 59l-26 24"/>
+  </g>
+  <text x="360" y="197" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="166" fill="#292a31">Valen</text>
+  <text x="452" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" letter-spacing="4" font-size="62" fill="#292a31">MAKEUP</text>
+</svg>
