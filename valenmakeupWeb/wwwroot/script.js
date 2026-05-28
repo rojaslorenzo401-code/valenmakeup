@@ -1,62 +1,48 @@
-// Aquí guardaremos los productos una vez que se carguen
-let productosPrincipales = [];
+// CatÃ¡logo Valen Makeup: carga gradual, filtros y aviso automÃ¡tico de stock bajo.
+const PRODUCTOS_POR_PAGINA = 24;
+const STOCK_BAJO_MAXIMO = 2;
 
-// Elementos de la página que vamos a utilizar
+let productosPrincipales = [];
+let productosVisibles = [];
+let cantidadMostrada = PRODUCTOS_POR_PAGINA;
+
 const contenedor = document.getElementById("contenedorProductos");
 const mensajeCarga = document.getElementById("mensajeCarga");
 const cantidadProductos = document.getElementById("cantidadProductos");
 const buscador = document.getElementById("buscador");
 const filtroCategoria = document.getElementById("filtroCategoria");
+const filtroDisponibilidad = document.getElementById("filtroDisponibilidad");
+const btnCargarMas = document.getElementById("btnCargarMas");
+const cargarMasContenedor = document.getElementById("cargarMasContenedor");
 
-// Esta función carga la información del archivo productos.json
 async function cargarProductos() {
     try {
         const respuesta = await fetch("datos/productos.json");
-
-        if (!respuesta.ok) {
-            throw new Error("No se pudo abrir productos.json");
-        }
+        if (!respuesta.ok) throw new Error("No se pudo abrir productos.json");
 
         const datos = await respuesta.json();
+        const todosLosProductos = datos.productos || [];
+        productosPrincipales = todosLosProductos.filter(producto => producto.es_variante === false);
 
-        // Separamos productos principales y variantes
-        const todosLosProductos = datos.productos;
-
-        productosPrincipales = todosLosProductos.filter(producto => {
-            return producto.es_variante === false;
-        });
-
-        // A cada producto principal le agregamos sus variantes
         productosPrincipales.forEach(producto => {
-            producto.variantes = todosLosProductos.filter(variante => {
-                return variante.grupo_uuid === producto.uuid;
-            });
+            producto.variantes = todosLosProductos.filter(variante => variante.grupo_uuid === producto.uuid);
         });
 
         llenarCategorias(productosPrincipales);
-        mostrarProductos(productosPrincipales);
-
+        filtrarProductos();
         mensajeCarga.style.display = "none";
-
     } catch (error) {
         mensajeCarga.textContent = "No se pudieron cargar los productos.";
         console.error(error);
     }
 }
 
-// Esta función llena la lista de categorías
 function llenarCategorias(productos) {
     const categorias = new Set();
-
-    productos.forEach(producto => {
-        producto.categorias.forEach(categoria => {
-            if (categoria.nombre !== "") {
-                categorias.add(categoria.nombre);
-            }
-        });
-    });
-
-    categorias.forEach(categoria => {
+    productos.forEach(producto => (producto.categorias || []).forEach(categoria => {
+        if (categoria.nombre) categorias.add(categoria.nombre);
+    }));
+    [...categorias].sort((a, b) => a.localeCompare(b, "es")).forEach(categoria => {
         const opcion = document.createElement("option");
         opcion.value = categoria;
         opcion.textContent = categoria;
@@ -64,120 +50,177 @@ function llenarCategorias(productos) {
     });
 }
 
-// Esta función convierte un número en precio de Costa Rica
 function mostrarPrecio(precio) {
-    return new Intl.NumberFormat("es-CR", {
-        style: "currency",
-        currency: "CRC",
-        maximumFractionDigits: 0
-    }).format(precio);
+    if (typeof precio !== "number") return "Consultar precio";
+    return new Intl.NumberFormat("es-CR", { style: "currency", currency: "CRC", maximumFractionDigits: 0 }).format(precio);
 }
 
-// Esta función crea todas las tarjetas de productos
-function mostrarProductos(productos) {
+function obtenerCantidad(producto) {
+    return typeof producto?.inventario?.cantidad === "number" ? producto.inventario.cantidad : null;
+}
+
+function disponibleIndividual(producto) {
+    return producto?.inventario?.disponible !== false;
+}
+
+function disponibleProducto(producto) {
+    if ((producto.variantes || []).length > 0) return producto.variantes.some(disponibleIndividual);
+    return disponibleIndividual(producto);
+}
+
+function tieneUltimasUnidades(producto) {
+    const opciones = (producto.variantes || []).length ? producto.variantes : [producto];
+    return opciones.some(opcion => {
+        const cantidad = obtenerCantidad(opcion);
+        return disponibleIndividual(opcion) && cantidad !== null && cantidad > 0 && cantidad <= STOCK_BAJO_MAXIMO;
+    });
+}
+
+function obtenerImagen(producto) {
+    if (producto.imagenes?.length) return producto.imagenes[0];
+    const varianteConImagen = (producto.variantes || []).find(variante => variante.imagenes?.length);
+    return varianteConImagen ? varianteConImagen.imagenes[0] : "";
+}
+
+function crearEtiqueta(disponible, ultimas) {
+    const etiqueta = document.createElement("span");
+    etiqueta.className = "etiqueta";
+    if (!disponible) {
+        etiqueta.classList.add("agotado");
+        etiqueta.textContent = "Agotado";
+    } else if (ultimas) {
+        etiqueta.classList.add("ultimas");
+        etiqueta.textContent = "Ãšltimas unidades";
+    } else {
+        etiqueta.textContent = "Disponible";
+    }
+    return etiqueta;
+}
+
+function crearSelectorVariantes(producto) {
+    if (!producto.variantes?.length) return null;
+    const selector = document.createElement("select");
+    selector.className = "variantes";
+    selector.setAttribute("aria-label", "Seleccionar opciÃ³n de " + producto.nombre);
+
+    const inicial = document.createElement("option");
+    inicial.textContent = "Seleccionar opciÃ³n";
+    inicial.value = "";
+    selector.appendChild(inicial);
+
+    producto.variantes.forEach(variante => {
+        const opcion = document.createElement("option");
+        const nombreOpcion = Object.values(variante.opciones || {}).filter(Boolean).join(" - ") || "OpciÃ³n";
+        const cantidad = obtenerCantidad(variante);
+        let estado = "";
+        if (!disponibleIndividual(variante)) estado = " - Agotado";
+        else if (cantidad === 1) estado = " - Ãšltima unidad";
+        else if (cantidad === 2) estado = " - Quedan 2";
+        opcion.textContent = nombreOpcion + estado;
+        opcion.disabled = !disponibleIndividual(variante);
+        selector.appendChild(opcion);
+    });
+    return selector;
+}
+
+function crearTarjeta(producto) {
+    const disponible = disponibleProducto(producto);
+    const ultimas = disponible && tieneUltimasUnidades(producto);
+    const tarjeta = document.createElement("article");
+    tarjeta.className = "tarjeta";
+    tarjeta.appendChild(crearEtiqueta(disponible, ultimas));
+
+    const imagen = document.createElement("img");
+    const rutaImagen = obtenerImagen(producto);
+    imagen.alt = producto.nombre || "Producto Valen Makeup";
+    imagen.loading = "lazy";
+    imagen.decoding = "async";
+    if (rutaImagen) imagen.src = rutaImagen;
+    else imagen.style.display = "none";
+    imagen.addEventListener("error", () => { imagen.style.display = "none"; });
+    tarjeta.appendChild(imagen);
+
+    const informacion = document.createElement("div");
+    informacion.className = "informacion";
+
+    const titulo = document.createElement("h2");
+    titulo.textContent = producto.nombre || "Producto";
+    informacion.appendChild(titulo);
+
+    const categoria = document.createElement("p");
+    categoria.className = "categoria";
+    categoria.textContent = producto.categorias?.find(c => c.nombre)?.nombre || "Valen Makeup";
+    informacion.appendChild(categoria);
+
+    const precio = document.createElement("p");
+    precio.className = "precio";
+    precio.textContent = mostrarPrecio(producto.precio);
+    informacion.appendChild(precio);
+
+    const selector = crearSelectorVariantes(producto);
+    if (selector) informacion.appendChild(selector);
+
+    if (ultimas) {
+        const nota = document.createElement("p");
+        nota.className = "stock-nota";
+        nota.textContent = "Confirmar disponibilidad antes del pago.";
+        informacion.appendChild(nota);
+    }
+
+    if (disponible && producto.enlace_cuanto) {
+        const boton = document.createElement("a");
+        boton.className = "boton";
+        boton.href = producto.enlace_cuanto;
+        boton.target = "_blank";
+        boton.rel = "noopener noreferrer";
+        boton.textContent = "Ver producto";
+        informacion.appendChild(boton);
+    } else if (!disponible) {
+        const agotado = document.createElement("p");
+        agotado.className = "agotado";
+        agotado.textContent = "Agotado";
+        informacion.appendChild(agotado);
+    }
+
+    tarjeta.appendChild(informacion);
+    return tarjeta;
+}
+
+function renderizarProductos() {
     contenedor.innerHTML = "";
+    const visibles = productosVisibles.slice(0, cantidadMostrada);
+    cantidadProductos.textContent = `Mostrando ${visibles.length} de ${productosVisibles.length} productos`;
 
-    cantidadProductos.textContent = productos.length + " productos encontrados";
-
-    if (productos.length === 0) {
+    if (productosVisibles.length === 0) {
         contenedor.innerHTML = "<p>No se encontraron productos.</p>";
+        cargarMasContenedor.hidden = true;
         return;
     }
 
-    productos.forEach(producto => {
-        const tarjeta = document.createElement("article");
-        tarjeta.classList.add("tarjeta");
-
-        // Tomamos la primera imagen disponible
-        let imagen = "https://via.placeholder.com/300x300?text=Sin+imagen";
-
-        if (producto.imagenes.length > 0) {
-            imagen = producto.imagenes[0];
-        }
-
-        // Buscamos el nombre de la categoría
-        let categoria = "Sin categoría";
-
-        if (producto.categorias.length > 0 && producto.categorias[0].nombre !== "") {
-            categoria = producto.categorias[0].nombre;
-        }
-
-        // Revisamos si tiene unidades disponibles
-        const disponible = producto.inventario.disponible;
-
-        // Creamos el selector de variantes solamente si existen tonos o sabores
-        let selectorVariantes = "";
-
-        if (producto.variantes.length > 0) {
-            selectorVariantes = `
-                <select class="variantes">
-                    <option>Seleccionar opcion</option>
-                    ${producto.variantes.map(variante => {
-                const opcion = Object.values(variante.opciones).join(" - ");
-                const estado = variante.inventario.disponible ? "" : " - Agotado";
-
-                return `<option>${opcion}${estado}</option>`;
-            }).join("")}
-                </select>
-            `;
-        }
-
-        // Botón o mensaje según disponibilidad
-        let accion = "";
-
-        if (disponible) {
-            if (producto.enlace_cuanto !== null) {
-                accion = `
-                    <a class="boton" href="${producto.enlace_cuanto}" target="_blank">
-                        Ver producto
-                    </a>
-                `;
-            } else {
-                accion = `<p class="agotado">Producto disponible</p>`;
-            }
-        } else {
-            accion = `<p class="agotado">Agotado</p>`;
-        }
-
-        // Armamos la tarjeta completa
-        tarjeta.innerHTML = `
-            <img src="${imagen}" alt="${producto.nombre}">
-
-            <div class="informacion">
-                <h2>${producto.nombre}</h2>
-                <p class="categoria">${categoria}</p>
-                <p class="precio">${mostrarPrecio(producto.precio)}</p>
-
-                ${selectorVariantes}
-                ${accion}
-            </div>
-        `;
-
-        contenedor.appendChild(tarjeta);
-    });
+    const fragmento = document.createDocumentFragment();
+    visibles.forEach(producto => fragmento.appendChild(crearTarjeta(producto)));
+    contenedor.appendChild(fragmento);
+    cargarMasContenedor.hidden = visibles.length >= productosVisibles.length;
 }
 
-// Esta función busca productos por nombre y categoría
 function filtrarProductos() {
-    const textoBuscado = buscador.value.toLowerCase();
-    const categoriaElegida = filtroCategoria.value;
+    const texto = buscador.value.trim().toLowerCase();
+    const categoria = filtroCategoria.value;
+    const disponibilidad = filtroDisponibilidad.value;
 
-    const productosFiltrados = productosPrincipales.filter(producto => {
-        const coincideNombre = producto.nombre.toLowerCase().includes(textoBuscado);
-
-        const coincideCategoria =
-            categoriaElegida === "todas" ||
-            producto.categorias.some(categoria => categoria.nombre === categoriaElegida);
-
-        return coincideNombre && coincideCategoria;
+    productosVisibles = productosPrincipales.filter(producto => {
+        const coincideTexto = !texto || (producto.nombre || "").toLowerCase().includes(texto);
+        const coincideCategoria = categoria === "todas" || (producto.categorias || []).some(c => c.nombre === categoria);
+        const estaDisponible = disponibleProducto(producto);
+        const coincideDisponibilidad = disponibilidad === "todos" || (disponibilidad === "disponibles" && estaDisponible) || (disponibilidad === "agotados" && !estaDisponible);
+        return coincideTexto && coincideCategoria && coincideDisponibilidad;
     });
-
-    mostrarProductos(productosFiltrados);
+    cantidadMostrada = PRODUCTOS_POR_PAGINA;
+    renderizarProductos();
 }
 
-// Cuando la persona escribe o selecciona una categoría, filtramos
 buscador.addEventListener("input", filtrarProductos);
 filtroCategoria.addEventListener("change", filtrarProductos);
-
-// Iniciamos la carga de productos
+filtroDisponibilidad.addEventListener("change", filtrarProductos);
+btnCargarMas.addEventListener("click", () => { cantidadMostrada += PRODUCTOS_POR_PAGINA; renderizarProductos(); });
 cargarProductos();
