@@ -21795,7 +21795,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 4,
+        "cantidad": 3,
         "disponible": true
       },
       "actualizado": "2024-10-19T22:30:38.298-05:00",
@@ -22144,7 +22144,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 75,
+        "cantidad": 74,
         "disponible": true
       },
       "actualizado": "2024-12-06T18:37:27.081-05:00",
