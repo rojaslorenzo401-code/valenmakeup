@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1732,
     "variantes": 2733,
     "categorias": 59,
-    "agotados": 783
+    "agotados": 784
   },
   "categorias": [
     {
@@ -87231,8 +87231,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2025-07-11T16:46:09.914-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/ba1425"
