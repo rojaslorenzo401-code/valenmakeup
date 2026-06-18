@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1764,
     "variantes": 2757,
     "categorias": 59,
-    "agotados": 704
+    "agotados": 705
   },
   "categorias": [
     {
@@ -10411,8 +10411,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2024-08-09T13:41:50.365-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/543d31"
