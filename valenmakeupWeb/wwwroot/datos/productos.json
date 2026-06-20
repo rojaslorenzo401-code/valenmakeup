@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1771,
     "variantes": 2757,
     "categorias": 59,
-    "agotados": 712
+    "agotados": 713
   },
   "categorias": [
     {
@@ -80704,8 +80704,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2025-11-14T01:17:06.640-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/77b142"
