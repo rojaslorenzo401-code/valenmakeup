@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1780,
     "variantes": 2774,
     "categorias": 59,
-    "agotados": 720
+    "agotados": 724
   },
   "categorias": [
     {
@@ -7653,8 +7653,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2025-12-18T09:41:23.045-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/c79ff7"
@@ -20601,7 +20601,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2025-11-15T02:14:58.849-05:00",
@@ -20633,7 +20633,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 7,
+        "cantidad": 6,
         "disponible": true
       },
       "actualizado": "2025-11-15T02:14:58.781-05:00",
@@ -31513,7 +31513,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 41,
+        "cantidad": 40,
         "disponible": true
       },
       "actualizado": "2025-05-24T23:29:38.631-05:00",
@@ -31591,7 +31591,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2025-05-24T23:29:38.728-05:00",
@@ -32034,7 +32034,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 38,
+        "cantidad": 37,
         "disponible": true
       },
       "actualizado": "2025-04-16T10:55:48.166-05:00",
@@ -32086,7 +32086,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 5,
+        "cantidad": 4,
         "disponible": true
       },
       "actualizado": "2025-12-18T09:26:06.896-05:00",
@@ -38842,8 +38842,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2025-10-27T19:33:05.614-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/568c80"
@@ -41263,7 +41263,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 30,
+        "cantidad": 29,
         "disponible": true
       },
       "actualizado": "2026-06-19T08:17:36.596-05:00",
@@ -51150,8 +51150,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2024-03-15T16:40:50.776-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/c56d69"
@@ -70923,7 +70923,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2025-12-18T00:11:27.057-05:00",
@@ -71007,7 +71007,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 15,
+        "cantidad": 14,
         "disponible": true
       },
       "actualizado": "2025-12-18T00:11:26.962-05:00",
@@ -83413,7 +83413,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 5,
+        "cantidad": 3,
         "disponible": true
       },
       "actualizado": "2025-04-16T14:45:34.373-05:00",
@@ -120717,7 +120717,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 4,
+        "cantidad": 3,
         "disponible": true
       },
       "actualizado": "2025-04-23T21:39:54.750-05:00",
@@ -128297,7 +128297,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 20,
+        "cantidad": 19,
         "disponible": true
       },
       "actualizado": "2025-10-16T17:05:35.533-05:00",
@@ -128505,8 +128505,8 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2026-02-08T12:18:24.099-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/4f1816"
