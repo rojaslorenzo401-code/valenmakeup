@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1780,
     "variantes": 2774,
     "categorias": 59,
-    "agotados": 728
+    "agotados": 729
   },
   "categorias": [
     {
@@ -16093,7 +16093,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 4,
+        "cantidad": 3,
         "disponible": true
       },
       "actualizado": "2025-12-17T23:53:21.483-05:00",
@@ -16154,7 +16154,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 6,
+        "cantidad": 5,
         "disponible": true
       },
       "actualizado": "2025-06-28T22:29:55.375-05:00",
@@ -20899,8 +20899,8 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2025-11-15T01:36:23.746-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/540d57"
@@ -20957,7 +20957,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 8,
+        "cantidad": 7,
         "disponible": true
       },
       "actualizado": "2025-11-15T01:36:23.683-05:00",
@@ -61033,7 +61033,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 10,
+        "cantidad": 9,
         "disponible": true
       },
       "actualizado": "2026-04-06T19:53:07.970-05:00",
@@ -61065,7 +61065,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 12,
+        "cantidad": 11,
         "disponible": true
       },
       "actualizado": "2026-04-06T19:53:07.816-05:00",
@@ -82297,7 +82297,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 4,
+        "cantidad": 3,
         "disponible": true
       },
       "actualizado": "2025-04-16T14:56:33.922-05:00",
@@ -121296,7 +121296,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 5,
+        "cantidad": 4,
         "disponible": true
       },
       "actualizado": "2024-11-09T00:09:23.605-05:00",
