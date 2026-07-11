@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1772,
     "variantes": 2782,
     "categorias": 59,
-    "agotados": 755
+    "agotados": 754
   },
   "categorias": [
     {
@@ -10498,8 +10498,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 0,
-        "disponible": false
+        "cantidad": 1,
+        "disponible": true
       },
       "actualizado": "2026-05-17T14:41:06.666-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/ca6075"
