@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1771,
     "variantes": 2782,
     "categorias": 59,
-    "agotados": 767
+    "agotados": 768
   },
   "categorias": [
     {
@@ -20614,7 +20614,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2026-02-06T12:56:24.716-05:00",
@@ -20666,7 +20666,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2026-02-06T12:56:24.782-05:00",
@@ -48231,8 +48231,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2026-02-08T13:55:04.381-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/e4e952"
@@ -119393,7 +119393,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 36,
+        "cantidad": 35,
         "disponible": true
       },
       "actualizado": "2025-10-01T13:40:18.097-05:00",
