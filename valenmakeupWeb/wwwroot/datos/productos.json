@@ -38834,7 +38834,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2025-07-17T01:12:50.782-05:00",
@@ -49339,7 +49339,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 16,
+        "cantidad": 15,
         "disponible": true
       },
       "actualizado": "2026-04-24T06:58:00.981-05:00",
