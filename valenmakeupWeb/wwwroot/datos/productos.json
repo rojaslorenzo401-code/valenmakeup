@@ -6885,12 +6885,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "a8bce626-0b30-43ea-9978-0d70ff686b75",
           "nombre": "Coreano Cabello"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -6951,12 +6951,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
-          "nombre": "Sueros"
-        },
-        {
           "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
           "nombre": "Perfumes/Corporal"
+        },
+        {
+          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
+          "nombre": "Sueros"
         }
       ],
       "inventario": {
@@ -10372,12 +10372,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
-          "nombre": "Sueros"
-        },
-        {
           "uuid": "d4fbf8dd-bcd9-4583-8924-deed680f15d3",
           "nombre": "The Inkey List "
+        },
+        {
+          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
+          "nombre": "Sueros"
         }
       ],
       "inventario": {
@@ -11840,12 +11840,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9f3e3b5d-dbca-4d94-a36e-11c6b9b8ba6c",
-          "nombre": "Sombras"
-        },
-        {
           "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
           "nombre": "Halloween"
+        },
+        {
+          "uuid": "9f3e3b5d-dbca-4d94-a36e-11c6b9b8ba6c",
+          "nombre": "Sombras"
         }
       ],
       "inventario": {
@@ -11875,12 +11875,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9f3e3b5d-dbca-4d94-a36e-11c6b9b8ba6c",
-          "nombre": "Sombras"
-        },
-        {
           "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
           "nombre": "Halloween"
+        },
+        {
+          "uuid": "9f3e3b5d-dbca-4d94-a36e-11c6b9b8ba6c",
+          "nombre": "Sombras"
         }
       ],
       "inventario": {
@@ -11910,12 +11910,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "0dd561ca-dfdb-4d7f-a2da-3a055fd5231b",
-          "nombre": "Cuidado de Labios "
-        },
-        {
           "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
           "nombre": "ANIVERSARIO"
+        },
+        {
+          "uuid": "0dd561ca-dfdb-4d7f-a2da-3a055fd5231b",
+          "nombre": "Cuidado de Labios "
         }
       ],
       "inventario": {
@@ -13774,12 +13774,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "0dd561ca-dfdb-4d7f-a2da-3a055fd5231b",
-          "nombre": "Cuidado de Labios "
-        },
-        {
           "uuid": "e85596c6-cd6c-4afa-bad1-74c823207232",
           "nombre": "Drunk Elephant"
+        },
+        {
+          "uuid": "0dd561ca-dfdb-4d7f-a2da-3a055fd5231b",
+          "nombre": "Cuidado de Labios "
         }
       ],
       "inventario": {
@@ -16410,12 +16410,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "0dd561ca-dfdb-4d7f-a2da-3a055fd5231b",
-          "nombre": "Cuidado de Labios "
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "0dd561ca-dfdb-4d7f-a2da-3a055fd5231b",
+          "nombre": "Cuidado de Labios "
         }
       ],
       "inventario": {
@@ -21666,12 +21666,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "84eaa07a-a939-43ac-abf6-00698adbdb39",
-          "nombre": "Bases"
-        },
-        {
           "uuid": "2b16555d-39fd-445f-a86a-ba172c47653a",
           "nombre": "Correctores "
+        },
+        {
+          "uuid": "84eaa07a-a939-43ac-abf6-00698adbdb39",
+          "nombre": "Bases"
         }
       ],
       "inventario": {
@@ -21833,12 +21833,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "84eaa07a-a939-43ac-abf6-00698adbdb39",
-          "nombre": "Bases"
-        },
-        {
           "uuid": "16fb7f4f-992b-4693-9050-9e6b448d3e18",
           "nombre": "Protector Solar "
+        },
+        {
+          "uuid": "84eaa07a-a939-43ac-abf6-00698adbdb39",
+          "nombre": "Bases"
         }
       ],
       "inventario": {
@@ -28595,12 +28595,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "e85596c6-cd6c-4afa-bad1-74c823207232",
           "nombre": "Drunk Elephant"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -33007,12 +33007,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
-          "nombre": "Labiales "
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
+          "nombre": "Labiales "
         }
       ],
       "inventario": {
@@ -34663,12 +34663,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "ec2c84ab-979a-47a2-bc2f-d730ff217c4a",
-          "nombre": "Brochas"
-        },
-        {
           "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
           "nombre": "Perfumes/Corporal"
+        },
+        {
+          "uuid": "ec2c84ab-979a-47a2-bc2f-d730ff217c4a",
+          "nombre": "Brochas"
         }
       ],
       "inventario": {
@@ -36846,12 +36846,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -36881,12 +36881,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -37029,12 +37029,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -37178,12 +37178,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -37344,12 +37344,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -37593,12 +37593,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -37724,16 +37724,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
+          "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
+          "nombre": "Halloween"
         },
         {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
         },
         {
-          "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
-          "nombre": "Halloween"
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -37942,12 +37942,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -38729,12 +38729,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -39255,12 +39255,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "a8bce626-0b30-43ea-9978-0d70ff686b75",
           "nombre": "Coreano Cabello"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -39419,12 +39419,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "e85596c6-cd6c-4afa-bad1-74c823207232",
           "nombre": "Drunk Elephant"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -39457,12 +39457,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "e9774145-b9a7-4e00-83f7-5d9387f57141",
           "nombre": "KARSELL Colágeno"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -39649,12 +39649,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
           "nombre": "ANIVERSARIO"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -40114,16 +40114,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
+          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
+          "nombre": "San Valentín"
         },
         {
           "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
           "nombre": "ANIVERSARIO"
         },
         {
-          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
-          "nombre": "San Valentín"
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -40983,12 +40983,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
           "nombre": "Labiales "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -42722,12 +42722,12 @@
           "nombre": "Contorno/Bronceador"
         },
         {
-          "uuid": "2b16555d-39fd-445f-a86a-ba172c47653a",
-          "nombre": "Correctores "
-        },
-        {
           "uuid": "dbacfba4-64a7-43f8-b597-eef05d2da8ce",
           "nombre": "Iluminadores "
+        },
+        {
+          "uuid": "2b16555d-39fd-445f-a86a-ba172c47653a",
+          "nombre": "Correctores "
         }
       ],
       "inventario": {
@@ -48331,12 +48331,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "5ac02e8e-0c2c-4eff-bf11-908d4c93b0e7",
-          "nombre": "Accesorios "
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "5ac02e8e-0c2c-4eff-bf11-908d4c93b0e7",
+          "nombre": "Accesorios "
         }
       ],
       "inventario": {
@@ -48463,12 +48463,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
           "nombre": "ANIVERSARIO"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -49326,12 +49326,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "af8a083b-d19f-49c1-9f15-cf70a4922c29",
-          "nombre": "Cremas"
-        },
-        {
           "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
           "nombre": "Perfumes/Corporal"
+        },
+        {
+          "uuid": "af8a083b-d19f-49c1-9f15-cf70a4922c29",
+          "nombre": "Cremas"
         }
       ],
       "inventario": {
@@ -49442,12 +49442,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -49723,12 +49723,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "af8a083b-d19f-49c1-9f15-cf70a4922c29",
-          "nombre": "Cremas"
-        },
-        {
           "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
           "nombre": "Perfumes/Corporal"
+        },
+        {
+          "uuid": "af8a083b-d19f-49c1-9f15-cf70a4922c29",
+          "nombre": "Cremas"
         }
       ],
       "inventario": {
@@ -51469,12 +51469,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "a8bce626-0b30-43ea-9978-0d70ff686b75",
           "nombre": "Coreano Cabello"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -55547,12 +55547,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "6d5576c7-d2a5-44da-83d1-18aec8e91863",
-          "nombre": "Delineadores "
-        },
-        {
           "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
           "nombre": "Halloween"
+        },
+        {
+          "uuid": "6d5576c7-d2a5-44da-83d1-18aec8e91863",
+          "nombre": "Delineadores "
         }
       ],
       "inventario": {
@@ -56384,12 +56384,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -56579,16 +56579,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
+          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
+          "nombre": "San Valentín"
         },
         {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
         },
         {
-          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
-          "nombre": "San Valentín"
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -57526,12 +57526,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
-          "nombre": "The Ordinary "
-        },
-        {
           "uuid": "b85ae8d9-f8b3-4281-bc3d-311bb38719e1",
           "nombre": "Crecimiento de Cejas y Pestañas"
+        },
+        {
+          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
+          "nombre": "The Ordinary "
         }
       ],
       "inventario": {
@@ -57563,12 +57563,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "e85596c6-cd6c-4afa-bad1-74c823207232",
           "nombre": "Drunk Elephant"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -58181,12 +58181,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "5ac02e8e-0c2c-4eff-bf11-908d4c93b0e7",
-          "nombre": "Accesorios "
-        },
-        {
           "uuid": "6d5576c7-d2a5-44da-83d1-18aec8e91863",
           "nombre": "Delineadores "
+        },
+        {
+          "uuid": "5ac02e8e-0c2c-4eff-bf11-908d4c93b0e7",
+          "nombre": "Accesorios "
         }
       ],
       "inventario": {
@@ -60298,16 +60298,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
+          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
+          "nombre": "San Valentín"
         },
         {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
         },
         {
-          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
-          "nombre": "San Valentín"
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -60363,12 +60363,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -60399,12 +60399,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -60640,12 +60640,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d4fbf8dd-bcd9-4583-8924-deed680f15d3",
-          "nombre": "The Inkey List "
-        },
-        {
           "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
           "nombre": "Perfumes/Corporal"
+        },
+        {
+          "uuid": "d4fbf8dd-bcd9-4583-8924-deed680f15d3",
+          "nombre": "The Inkey List "
         }
       ],
       "inventario": {
@@ -61241,12 +61241,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9fdb6867-6b8e-4376-a98f-f13d6d279ea2",
-          "nombre": "Fijador de maquillaje "
-        },
-        {
           "uuid": "c68b7ccd-4bdf-46bc-a105-1b9936b02682",
           "nombre": "Coreano Maquillaje"
+        },
+        {
+          "uuid": "9fdb6867-6b8e-4376-a98f-f13d6d279ea2",
+          "nombre": "Fijador de maquillaje "
         }
       ],
       "inventario": {
@@ -61468,12 +61468,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "9ddbb010-c23d-41c8-b2d7-16de4eaacc69",
           "nombre": "Nutrición"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -61602,16 +61602,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
+          "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
+          "nombre": "Halloween"
         },
         {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
         },
         {
-          "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
-          "nombre": "Halloween"
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -61773,12 +61773,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -61835,12 +61835,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "0dd561ca-dfdb-4d7f-a2da-3a055fd5231b",
-          "nombre": "Cuidado de Labios "
-        },
-        {
           "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
           "nombre": "Perfumes/Corporal"
+        },
+        {
+          "uuid": "0dd561ca-dfdb-4d7f-a2da-3a055fd5231b",
+          "nombre": "Cuidado de Labios "
         }
       ],
       "inventario": {
@@ -61964,12 +61964,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "7e878978-107d-4af7-80c5-3d1cfe8ae971",
           "nombre": "Coreano Cuidado Facial"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -62245,12 +62245,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
-          "nombre": "Bath and Body"
-        },
-        {
           "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
           "nombre": "Halloween"
+        },
+        {
+          "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
+          "nombre": "Bath and Body"
         }
       ],
       "inventario": {
@@ -65157,12 +65157,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "e9774145-b9a7-4e00-83f7-5d9387f57141",
           "nombre": "KARSELL Colágeno"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -67992,12 +67992,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "dbacfba4-64a7-43f8-b597-eef05d2da8ce",
           "nombre": "Iluminadores "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -68459,12 +68459,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -68765,12 +68765,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "e9774145-b9a7-4e00-83f7-5d9387f57141",
           "nombre": "KARSELL Colágeno"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -69378,12 +69378,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "e85596c6-cd6c-4afa-bad1-74c823207232",
           "nombre": "Drunk Elephant"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -69706,12 +69706,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
-          "nombre": "Bath and Body"
-        },
-        {
           "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
           "nombre": "Halloween"
+        },
+        {
+          "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
+          "nombre": "Bath and Body"
         }
       ],
       "inventario": {
@@ -74719,12 +74719,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "e85596c6-cd6c-4afa-bad1-74c823207232",
           "nombre": "Drunk Elephant"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -79154,12 +79154,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "b09b0a63-e5d3-4af6-a633-81ffbbdbbe52",
           "nombre": "Coreano Limpiador Facial"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -80209,12 +80209,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
-          "nombre": "The Ordinary "
-        },
-        {
           "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
           "nombre": "Perfumes/Corporal"
+        },
+        {
+          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
+          "nombre": "The Ordinary "
         }
       ],
       "inventario": {
@@ -81802,12 +81802,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "8571a4fc-a901-400b-8663-7b87c77c5f87",
-          "nombre": "Máscara de pestañas "
-        },
-        {
           "uuid": "a71e5540-1847-4526-9b5f-c60f594186ea",
           "nombre": "Cejas "
+        },
+        {
+          "uuid": "8571a4fc-a901-400b-8663-7b87c77c5f87",
+          "nombre": "Máscara de pestañas "
         }
       ],
       "inventario": {
@@ -83230,12 +83230,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "8571a4fc-a901-400b-8663-7b87c77c5f87",
-          "nombre": "Máscara de pestañas "
-        },
-        {
           "uuid": "a71e5540-1847-4526-9b5f-c60f594186ea",
           "nombre": "Cejas "
+        },
+        {
+          "uuid": "8571a4fc-a901-400b-8663-7b87c77c5f87",
+          "nombre": "Máscara de pestañas "
         }
       ],
       "inventario": {
@@ -84129,12 +84129,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "8571a4fc-a901-400b-8663-7b87c77c5f87",
-          "nombre": "Máscara de pestañas "
-        },
-        {
           "uuid": "a71e5540-1847-4526-9b5f-c60f594186ea",
           "nombre": "Cejas "
+        },
+        {
+          "uuid": "8571a4fc-a901-400b-8663-7b87c77c5f87",
+          "nombre": "Máscara de pestañas "
         }
       ],
       "inventario": {
@@ -84165,12 +84165,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "8571a4fc-a901-400b-8663-7b87c77c5f87",
-          "nombre": "Máscara de pestañas "
-        },
-        {
           "uuid": "a71e5540-1847-4526-9b5f-c60f594186ea",
           "nombre": "Cejas "
+        },
+        {
+          "uuid": "8571a4fc-a901-400b-8663-7b87c77c5f87",
+          "nombre": "Máscara de pestañas "
         }
       ],
       "inventario": {
@@ -84363,12 +84363,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "8571a4fc-a901-400b-8663-7b87c77c5f87",
-          "nombre": "Máscara de pestañas "
-        },
-        {
           "uuid": "b85ae8d9-f8b3-4281-bc3d-311bb38719e1",
           "nombre": "Crecimiento de Cejas y Pestañas"
+        },
+        {
+          "uuid": "8571a4fc-a901-400b-8663-7b87c77c5f87",
+          "nombre": "Máscara de pestañas "
         }
       ],
       "inventario": {
@@ -86015,12 +86015,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "a8bce626-0b30-43ea-9978-0d70ff686b75",
           "nombre": "Coreano Cabello"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -86279,12 +86279,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
           "nombre": "ANIVERSARIO"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -86574,12 +86574,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "1a812645-a395-4eb4-9865-394c3f55875e",
-          "nombre": "Mascarillas faciales "
-        },
-        {
           "uuid": "bd1b3eb9-50f6-4f00-ac7e-1437e534a170",
           "nombre": "Truly (después del afeitado)"
+        },
+        {
+          "uuid": "1a812645-a395-4eb4-9865-394c3f55875e",
+          "nombre": "Mascarillas faciales "
         }
       ],
       "inventario": {
@@ -87098,12 +87098,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "1a812645-a395-4eb4-9865-394c3f55875e",
-          "nombre": "Mascarillas faciales "
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "1a812645-a395-4eb4-9865-394c3f55875e",
+          "nombre": "Mascarillas faciales "
         }
       ],
       "inventario": {
@@ -88424,12 +88424,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -88460,12 +88460,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "ec2c84ab-979a-47a2-bc2f-d730ff217c4a",
-          "nombre": "Brochas"
-        },
-        {
           "uuid": "66413eda-59bf-429d-ab09-f25cdcee4e76",
           "nombre": "Esponjas"
+        },
+        {
+          "uuid": "ec2c84ab-979a-47a2-bc2f-d730ff217c4a",
+          "nombre": "Brochas"
         }
       ],
       "inventario": {
@@ -88495,12 +88495,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -88561,12 +88561,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
-          "nombre": "The Ordinary "
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
+          "nombre": "The Ordinary "
         }
       ],
       "inventario": {
@@ -88630,12 +88630,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c68b7ccd-4bdf-46bc-a105-1b9936b02682",
-          "nombre": "Coreano Maquillaje"
-        },
-        {
           "uuid": "b85ae8d9-f8b3-4281-bc3d-311bb38719e1",
           "nombre": "Crecimiento de Cejas y Pestañas"
+        },
+        {
+          "uuid": "c68b7ccd-4bdf-46bc-a105-1b9936b02682",
+          "nombre": "Coreano Maquillaje"
         }
       ],
       "inventario": {
@@ -88823,12 +88823,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
           "nombre": "Labiales "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -89034,12 +89034,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
-          "nombre": "Sueros"
-        },
-        {
           "uuid": "d4fbf8dd-bcd9-4583-8924-deed680f15d3",
           "nombre": "The Inkey List "
+        },
+        {
+          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
+          "nombre": "Sueros"
         }
       ],
       "inventario": {
@@ -89406,12 +89406,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
           "nombre": "ANIVERSARIO"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -91607,12 +91607,12 @@
           "nombre": "Contorno/Bronceador"
         },
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "dbacfba4-64a7-43f8-b597-eef05d2da8ce",
           "nombre": "Iluminadores "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -91962,12 +91962,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9f3e3b5d-dbca-4d94-a36e-11c6b9b8ba6c",
-          "nombre": "Sombras"
-        },
-        {
           "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
           "nombre": "ANIVERSARIO"
+        },
+        {
+          "uuid": "9f3e3b5d-dbca-4d94-a36e-11c6b9b8ba6c",
+          "nombre": "Sombras"
         }
       ],
       "inventario": {
@@ -92277,12 +92277,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "7c562034-d9b0-446d-824d-df3d5f28f752",
-          "nombre": "Cerave "
-        },
-        {
           "uuid": "9ba0908b-d53d-4517-a371-33b7a692e90a",
           "nombre": "Parches"
+        },
+        {
+          "uuid": "7c562034-d9b0-446d-824d-df3d5f28f752",
+          "nombre": "Cerave "
         }
       ],
       "inventario": {
@@ -92486,12 +92486,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "7e878978-107d-4af7-80c5-3d1cfe8ae971",
-          "nombre": "Coreano Cuidado Facial"
-        },
-        {
           "uuid": "9ba0908b-d53d-4517-a371-33b7a692e90a",
           "nombre": "Parches"
+        },
+        {
+          "uuid": "7e878978-107d-4af7-80c5-3d1cfe8ae971",
+          "nombre": "Coreano Cuidado Facial"
         }
       ],
       "inventario": {
@@ -92552,12 +92552,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "7a53081b-e871-4baa-b48c-4b223febe19a",
-          "nombre": "Good Molecules "
-        },
-        {
           "uuid": "9ba0908b-d53d-4517-a371-33b7a692e90a",
           "nombre": "Parches"
+        },
+        {
+          "uuid": "7a53081b-e871-4baa-b48c-4b223febe19a",
+          "nombre": "Good Molecules "
         }
       ],
       "inventario": {
@@ -92587,12 +92587,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "7e878978-107d-4af7-80c5-3d1cfe8ae971",
-          "nombre": "Coreano Cuidado Facial"
-        },
-        {
           "uuid": "9ba0908b-d53d-4517-a371-33b7a692e90a",
           "nombre": "Parches"
+        },
+        {
+          "uuid": "7e878978-107d-4af7-80c5-3d1cfe8ae971",
+          "nombre": "Coreano Cuidado Facial"
         }
       ],
       "inventario": {
@@ -93094,12 +93094,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "7e878978-107d-4af7-80c5-3d1cfe8ae971",
-          "nombre": "Coreano Cuidado Facial"
-        },
-        {
           "uuid": "9ba0908b-d53d-4517-a371-33b7a692e90a",
           "nombre": "Parches"
+        },
+        {
+          "uuid": "7e878978-107d-4af7-80c5-3d1cfe8ae971",
+          "nombre": "Coreano Cuidado Facial"
         }
       ],
       "inventario": {
@@ -93131,12 +93131,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "7e878978-107d-4af7-80c5-3d1cfe8ae971",
-          "nombre": "Coreano Cuidado Facial"
-        },
-        {
           "uuid": "9ba0908b-d53d-4517-a371-33b7a692e90a",
           "nombre": "Parches"
+        },
+        {
+          "uuid": "7e878978-107d-4af7-80c5-3d1cfe8ae971",
+          "nombre": "Coreano Cuidado Facial"
         }
       ],
       "inventario": {
@@ -93365,16 +93365,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
+          "uuid": "d158e2f9-2dfe-458b-898f-e8c0a14dc346",
+          "nombre": "Accesorios de Cabello"
         },
         {
           "uuid": "5ac02e8e-0c2c-4eff-bf11-908d4c93b0e7",
           "nombre": "Accesorios "
         },
         {
-          "uuid": "d158e2f9-2dfe-458b-898f-e8c0a14dc346",
-          "nombre": "Accesorios de Cabello"
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -94624,12 +94624,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "4a6f9825-7330-4480-af0a-ff1efa0291a1",
-          "nombre": "Pestañas postizas/Lifting"
-        },
-        {
           "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
           "nombre": "Halloween"
+        },
+        {
+          "uuid": "4a6f9825-7330-4480-af0a-ff1efa0291a1",
+          "nombre": "Pestañas postizas/Lifting"
         }
       ],
       "inventario": {
@@ -95577,12 +95577,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "4a6f9825-7330-4480-af0a-ff1efa0291a1",
-          "nombre": "Pestañas postizas/Lifting"
-        },
-        {
           "uuid": "5ac02e8e-0c2c-4eff-bf11-908d4c93b0e7",
           "nombre": "Accesorios "
+        },
+        {
+          "uuid": "4a6f9825-7330-4480-af0a-ff1efa0291a1",
+          "nombre": "Pestañas postizas/Lifting"
         }
       ],
       "inventario": {
@@ -96014,16 +96014,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
+          "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
+          "nombre": "Halloween"
         },
         {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
         },
         {
-          "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
-          "nombre": "Halloween"
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -97363,12 +97363,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3dcc2c2d-8699-455e-a18b-f9907a467979",
-          "nombre": "Contorno/Bronceador"
-        },
-        {
           "uuid": "8fc3a701-6a80-4467-b98b-f71939fef6d1",
           "nombre": "Polvos "
+        },
+        {
+          "uuid": "3dcc2c2d-8699-455e-a18b-f9907a467979",
+          "nombre": "Contorno/Bronceador"
         }
       ],
       "inventario": {
@@ -107514,12 +107514,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "0dd561ca-dfdb-4d7f-a2da-3a055fd5231b",
-          "nombre": "Cuidado de Labios "
-        },
-        {
           "uuid": "fb29f4a4-0144-401c-828c-dea8b38aad27",
           "nombre": "Coreano Protector Solar"
+        },
+        {
+          "uuid": "0dd561ca-dfdb-4d7f-a2da-3a055fd5231b",
+          "nombre": "Cuidado de Labios "
         }
       ],
       "inventario": {
@@ -107762,12 +107762,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "fb29f4a4-0144-401c-828c-dea8b38aad27",
           "nombre": "Coreano Protector Solar"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -107893,12 +107893,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "e85596c6-cd6c-4afa-bad1-74c823207232",
           "nombre": "Drunk Elephant"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -108394,12 +108394,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "5ac02e8e-0c2c-4eff-bf11-908d4c93b0e7",
-          "nombre": "Accesorios "
-        },
-        {
           "uuid": "c68b7ccd-4bdf-46bc-a105-1b9936b02682",
           "nombre": "Coreano Maquillaje"
+        },
+        {
+          "uuid": "5ac02e8e-0c2c-4eff-bf11-908d4c93b0e7",
+          "nombre": "Accesorios "
         }
       ],
       "inventario": {
@@ -114245,12 +114245,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9b308c5e-3863-4bf6-82ee-ce8729f60966",
-          "nombre": "Kits "
-        },
-        {
           "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
           "nombre": "Perfumes/Corporal"
+        },
+        {
+          "uuid": "9b308c5e-3863-4bf6-82ee-ce8729f60966",
+          "nombre": "Kits "
         }
       ],
       "inventario": {
@@ -114365,12 +114365,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "66413eda-59bf-429d-ab09-f25cdcee4e76",
-          "nombre": "Esponjas"
-        },
-        {
           "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
           "nombre": "Halloween"
+        },
+        {
+          "uuid": "66413eda-59bf-429d-ab09-f25cdcee4e76",
+          "nombre": "Esponjas"
         }
       ],
       "inventario": {
@@ -114466,12 +114466,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "5ac02e8e-0c2c-4eff-bf11-908d4c93b0e7",
-          "nombre": "Accesorios "
-        },
-        {
           "uuid": "d158e2f9-2dfe-458b-898f-e8c0a14dc346",
           "nombre": "Accesorios de Cabello"
+        },
+        {
+          "uuid": "5ac02e8e-0c2c-4eff-bf11-908d4c93b0e7",
+          "nombre": "Accesorios "
         }
       ],
       "inventario": {
@@ -114535,12 +114535,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -114571,12 +114571,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
-          "nombre": "Perfumes/Corporal"
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
+          "nombre": "Perfumes/Corporal"
         }
       ],
       "inventario": {
@@ -114734,12 +114734,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -114866,12 +114866,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "66413eda-59bf-429d-ab09-f25cdcee4e76",
-          "nombre": "Esponjas"
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "66413eda-59bf-429d-ab09-f25cdcee4e76",
+          "nombre": "Esponjas"
         }
       ],
       "inventario": {
@@ -116643,12 +116643,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -116892,12 +116892,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -116954,16 +116954,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
+          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
+          "nombre": "San Valentín"
         },
         {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
         },
         {
-          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
-          "nombre": "San Valentín"
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -117072,16 +117072,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
+          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
+          "nombre": "San Valentín"
         },
         {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
         },
         {
-          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
-          "nombre": "San Valentín"
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -117164,16 +117164,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
+          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
+          "nombre": "San Valentín"
         },
         {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
         },
         {
-          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
-          "nombre": "San Valentín"
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -117204,12 +117204,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -117239,12 +117239,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -117274,12 +117274,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
-          "nombre": "Desinfectante de Manos"
-        },
-        {
           "uuid": "3145e67e-ffc4-48bb-8b06-356beceffca4",
           "nombre": "Bath and Body"
+        },
+        {
+          "uuid": "3213c92a-c022-4702-80e7-92b2a00533d6",
+          "nombre": "Desinfectante de Manos"
         }
       ],
       "inventario": {
@@ -119077,12 +119077,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c68b7ccd-4bdf-46bc-a105-1b9936b02682",
-          "nombre": "Coreano Maquillaje"
-        },
-        {
           "uuid": "b85ae8d9-f8b3-4281-bc3d-311bb38719e1",
           "nombre": "Crecimiento de Cejas y Pestañas"
+        },
+        {
+          "uuid": "c68b7ccd-4bdf-46bc-a105-1b9936b02682",
+          "nombre": "Coreano Maquillaje"
         }
       ],
       "inventario": {
@@ -119369,12 +119369,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "16fb7f4f-992b-4693-9050-9e6b448d3e18",
-          "nombre": "Protector Solar "
-        },
-        {
           "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
           "nombre": "The Ordinary "
+        },
+        {
+          "uuid": "16fb7f4f-992b-4693-9050-9e6b448d3e18",
+          "nombre": "Protector Solar "
         }
       ],
       "inventario": {
@@ -119405,12 +119405,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
-          "nombre": "The Ordinary "
-        },
-        {
           "uuid": "d19c5801-4cd6-4e15-928f-028d12d6f66e",
           "nombre": "Perfumes/Corporal"
+        },
+        {
+          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
+          "nombre": "The Ordinary "
         }
       ],
       "inventario": {
@@ -119509,12 +119509,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "fed0e6cd-347b-4994-8115-24afdce944df",
-          "nombre": "Contorno de ojos "
-        },
-        {
           "uuid": "26754923-b50b-4436-b318-14713cedfdaa",
           "nombre": "Coreano Contorno Ojos"
+        },
+        {
+          "uuid": "fed0e6cd-347b-4994-8115-24afdce944df",
+          "nombre": "Contorno de ojos "
         }
       ],
       "inventario": {
@@ -120021,12 +120021,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "7e878978-107d-4af7-80c5-3d1cfe8ae971",
           "nombre": "Coreano Cuidado Facial"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -120120,12 +120120,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
-          "nombre": "Sueros"
-        },
-        {
           "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
           "nombre": "ANIVERSARIO"
+        },
+        {
+          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
+          "nombre": "Sueros"
         }
       ],
       "inventario": {
@@ -120701,12 +120701,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
-          "nombre": "The Ordinary "
-        },
-        {
           "uuid": "fed0e6cd-347b-4994-8115-24afdce944df",
           "nombre": "Contorno de ojos "
+        },
+        {
+          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
+          "nombre": "The Ordinary "
         }
       ],
       "inventario": {
@@ -121802,12 +121802,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "6b0a39d9-cc8e-4475-b0d0-84c68fc55d67",
-          "nombre": "Botellas"
-        },
-        {
           "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
           "nombre": "Halloween"
+        },
+        {
+          "uuid": "6b0a39d9-cc8e-4475-b0d0-84c68fc55d67",
+          "nombre": "Botellas"
         }
       ],
       "inventario": {
@@ -122741,12 +122741,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "6b0a39d9-cc8e-4475-b0d0-84c68fc55d67",
-          "nombre": "Botellas"
-        },
-        {
           "uuid": "c6500cbc-b47c-433c-a69b-ebc3a16f015e",
           "nombre": "Halloween"
+        },
+        {
+          "uuid": "6b0a39d9-cc8e-4475-b0d0-84c68fc55d67",
+          "nombre": "Botellas"
         }
       ],
       "inventario": {
@@ -122932,12 +122932,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "6b0a39d9-cc8e-4475-b0d0-84c68fc55d67",
-          "nombre": "Botellas"
-        },
-        {
           "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
           "nombre": "San Valentín"
+        },
+        {
+          "uuid": "6b0a39d9-cc8e-4475-b0d0-84c68fc55d67",
+          "nombre": "Botellas"
         }
       ],
       "inventario": {
@@ -125827,12 +125827,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
           "nombre": "Labiales "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -125941,12 +125941,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
           "nombre": "Labiales "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -126005,12 +126005,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
           "nombre": "Labiales "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -126825,12 +126825,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
           "nombre": "Labiales "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -126938,12 +126938,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
           "nombre": "Labiales "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -127111,12 +127111,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
           "nombre": "Labiales "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -127147,12 +127147,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
           "nombre": "Labiales "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -129408,12 +129408,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "7a53081b-e871-4baa-b48c-4b223febe19a",
-          "nombre": "Good Molecules "
-        },
-        {
           "uuid": "fea0878f-a16f-4b0e-a87d-eee23b5dbec0",
           "nombre": "Tónicos "
+        },
+        {
+          "uuid": "7a53081b-e871-4baa-b48c-4b223febe19a",
+          "nombre": "Good Molecules "
         }
       ],
       "inventario": {
@@ -129474,12 +129474,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "7a53081b-e871-4baa-b48c-4b223febe19a",
-          "nombre": "Good Molecules "
-        },
-        {
           "uuid": "fea0878f-a16f-4b0e-a87d-eee23b5dbec0",
           "nombre": "Tónicos "
+        },
+        {
+          "uuid": "7a53081b-e871-4baa-b48c-4b223febe19a",
+          "nombre": "Good Molecules "
         }
       ],
       "inventario": {
@@ -130567,12 +130567,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
-        },
-        {
           "uuid": "e9774145-b9a7-4e00-83f7-5d9387f57141",
           "nombre": "KARSELL Colágeno"
+        },
+        {
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -130604,16 +130604,16 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
-          "nombre": "Cabello"
+          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
+          "nombre": "San Valentín"
         },
         {
           "uuid": "e9774145-b9a7-4e00-83f7-5d9387f57141",
           "nombre": "KARSELL Colágeno"
         },
         {
-          "uuid": "284964aa-2cec-4c31-a1e9-fe38f07c2a4f",
-          "nombre": "San Valentín"
+          "uuid": "c8310eea-9bd6-43f6-b025-5214346dc31a",
+          "nombre": "Cabello"
         }
       ],
       "inventario": {
@@ -131781,12 +131781,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "9ddbb010-c23d-41c8-b2d7-16de4eaacc69",
           "nombre": "Nutrición"
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         }
       ],
       "inventario": {
@@ -133834,12 +133834,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "ec2c84ab-979a-47a2-bc2f-d730ff217c4a",
-          "nombre": "Brochas"
-        },
-        {
           "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
           "nombre": "ANIVERSARIO"
+        },
+        {
+          "uuid": "ec2c84ab-979a-47a2-bc2f-d730ff217c4a",
+          "nombre": "Brochas"
         }
       ],
       "inventario": {
@@ -134024,12 +134024,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "6d5576c7-d2a5-44da-83d1-18aec8e91863",
           "nombre": "Delineadores "
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         },
         {
           "uuid": "2b16555d-39fd-445f-a86a-ba172c47653a",
@@ -134063,12 +134063,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
-          "nombre": "ANIVERSARIO"
-        },
-        {
           "uuid": "6d5576c7-d2a5-44da-83d1-18aec8e91863",
           "nombre": "Delineadores "
+        },
+        {
+          "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
+          "nombre": "ANIVERSARIO"
         },
         {
           "uuid": "2b16555d-39fd-445f-a86a-ba172c47653a",
@@ -134475,12 +134475,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "af8a083b-d19f-49c1-9f15-cf70a4922c29",
-          "nombre": "Cremas"
-        },
-        {
           "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
           "nombre": "The Ordinary "
+        },
+        {
+          "uuid": "af8a083b-d19f-49c1-9f15-cf70a4922c29",
+          "nombre": "Cremas"
         }
       ],
       "inventario": {
@@ -134944,12 +134944,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
-          "nombre": "Sueros"
-        },
-        {
           "uuid": "d4fbf8dd-bcd9-4583-8924-deed680f15d3",
           "nombre": "The Inkey List "
+        },
+        {
+          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
+          "nombre": "Sueros"
         }
       ],
       "inventario": {
@@ -135435,12 +135435,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
-          "nombre": "The Ordinary "
-        },
-        {
           "uuid": "b85ae8d9-f8b3-4281-bc3d-311bb38719e1",
           "nombre": "Crecimiento de Cejas y Pestañas"
+        },
+        {
+          "uuid": "c7f07706-b105-4fc9-a8cb-f1fff0c7177b",
+          "nombre": "The Ordinary "
         }
       ],
       "inventario": {
@@ -135536,12 +135536,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
-          "nombre": "Sueros"
-        },
-        {
           "uuid": "d4fbf8dd-bcd9-4583-8924-deed680f15d3",
           "nombre": "The Inkey List "
+        },
+        {
+          "uuid": "9032bfb0-0058-4cea-bba3-5bdeff30e9c3",
+          "nombre": "Sueros"
         }
       ],
       "inventario": {
@@ -135608,12 +135608,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
-          "nombre": "Rubores"
-        },
-        {
           "uuid": "167b6ddd-f878-40f8-9499-7df04d0f27b4",
           "nombre": "Labiales "
+        },
+        {
+          "uuid": "764d53a3-f5de-43d5-8a57-116760a51911",
+          "nombre": "Rubores"
         }
       ],
       "inventario": {
@@ -135674,12 +135674,12 @@
       "grupo_uuid": null,
       "categorias": [
         {
-          "uuid": "d4fbf8dd-bcd9-4583-8924-deed680f15d3",
-          "nombre": "The Inkey List "
-        },
-        {
           "uuid": "64492b2f-9cd9-488d-a46c-abef132e67b4",
           "nombre": "ANIVERSARIO"
+        },
+        {
+          "uuid": "d4fbf8dd-bcd9-4583-8924-deed680f15d3",
+          "nombre": "The Inkey List "
         }
       ],
       "inventario": {
