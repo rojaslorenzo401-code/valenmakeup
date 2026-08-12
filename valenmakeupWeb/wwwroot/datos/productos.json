@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1813,
     "variantes": 2829,
     "categorias": 61,
-    "agotados": 756
+    "agotados": 757
   },
   "categorias": [
     {
@@ -6779,7 +6779,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2025-11-28T23:45:20.844-05:00",
@@ -10733,7 +10733,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 0,
+        "cantidad": -4,
         "disponible": false
       },
       "actualizado": "2026-05-17T14:41:06.666-05:00",
@@ -29241,7 +29241,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 4,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2024-11-08T22:32:34.736-05:00",
@@ -29326,7 +29326,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 13,
+        "cantidad": 11,
         "disponible": true
       },
       "actualizado": "2024-11-08T22:32:34.627-05:00",
@@ -50009,7 +50009,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2026-06-17T01:47:53.726-05:00",
@@ -50247,7 +50247,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2026-06-17T01:48:29.712-05:00",
@@ -67104,8 +67104,8 @@
       "nombre": "Gotas de Cabello Aceite Argán 50ml - Karseell",
       "descripcion_corta": "",
       "descripcion": "Este suero para el cabello es aceite de argán con fórmula Provitam E para un cabello más saludable y un brillo instantáneo. ¡El suero capilar con aceite de argán karseell es el sueño de un estilista! ¡Este fantástico producto elimina instantáneamente el frizz y el cabello áspero e inmanejable al controlarlo, alisarlo y darle brillo al instante!",
-      "precio": 5000,
-      "precio_anterior": 10000,
+      "precio": 10000,
+      "precio_anterior": 0,
       "moneda": "CRC",
       "publicado": true,
       "imagenes": [
@@ -67133,10 +67133,10 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 56,
+        "cantidad": 55,
         "disponible": true
       },
-      "actualizado": "2026-08-12T16:54:53.069-05:00",
+      "actualizado": "2026-08-12T18:18:18.982-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/8d1a25"
     },
     {
@@ -70979,7 +70979,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 6,
+        "cantidad": 5,
         "disponible": true
       },
       "actualizado": "2025-02-22T19:38:34.584-05:00",
@@ -71005,7 +71005,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2025-02-22T17:51:03.868-05:00",
@@ -71286,7 +71286,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 38,
+        "cantidad": 37,
         "disponible": true
       },
       "actualizado": "2025-08-27T22:44:46.836-05:00",
@@ -76322,8 +76322,8 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2026-07-30T23:55:31.712-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/3ae848"
@@ -76517,7 +76517,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 17,
+        "cantidad": 15,
         "disponible": true
       },
       "actualizado": "2025-01-07T14:55:59.777-05:00",
@@ -76673,7 +76673,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2026-07-30T23:55:31.712-05:00",
@@ -90945,7 +90945,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 56,
+        "cantidad": 55,
         "disponible": true
       },
       "actualizado": "2026-08-07T09:19:09.058-05:00",
@@ -108815,7 +108815,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 4,
+        "cantidad": 3,
         "disponible": true
       },
       "actualizado": "2025-11-28T23:45:44.836-05:00",
@@ -108967,7 +108967,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 15,
+        "cantidad": 14,
         "disponible": true
       },
       "actualizado": "2024-10-15T21:50:43.997-05:00",
@@ -109221,7 +109221,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 10,
+        "cantidad": 8,
         "disponible": true
       },
       "actualizado": "2026-07-09T18:57:07.258-05:00",
@@ -116026,7 +116026,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 7,
+        "cantidad": 6,
         "disponible": true
       },
       "actualizado": "2026-08-09T12:04:51.408-05:00",
@@ -118166,7 +118166,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2024-05-16T18:44:31.107-05:00",
@@ -133414,8 +133414,8 @@
       "nombre": "Tratamiento Reparador de Colágeno 500 ml - Karseell",
       "descripcion_corta": "",
       "descripcion": "Karseell Collagen contiene una pequeña cantidad de esencia de maca y aceite de argán de Marruecos, integrado con tecnología activa de evaporación y penetración de colágeno, este producto puede brindar energía mágica de activación al cabello dañado desde afuera hacia adentro, reparar las fibras capilares y el orificio de llenado; con ácido hialurónico altamente hidratante para lograr una reposición constante de humedad, dejando así el cabello flexible, suave y brillante.\n\nSolicitud\nDespués del champú (no más acondicionador). Seque con una toalla hasta que no gotee, aplique el volumen adecuado de colágeno en el cabello (manténgalo alejado del cuero cabelludo), espere de 10 a 20 minutos para que el cabello lo absorba y luego enjuague con agua limpia.\n\nIngredientes naturales MACA, tecnología única con efecto duradero para un cabello suave y flexible.\nSe almacenará en un lugar seco y fresco, evitando la exposición directa al sol.\nEn caso de contacto con los ojos, enjuagar inmediatamente y consultar a un médico si es necesario.",
-      "precio": 5000,
-      "precio_anterior": 10000,
+      "precio": 10000,
+      "precio_anterior": 0,
       "moneda": "CRC",
       "publicado": true,
       "imagenes": [
@@ -133446,10 +133446,10 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 63,
+        "cantidad": 62,
         "disponible": true
       },
-      "actualizado": "2026-08-12T17:03:53.451-05:00",
+      "actualizado": "2026-08-12T18:10:23.405-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/4ddd59"
     },
     {
@@ -134106,7 +134106,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 21,
+        "cantidad": 19,
         "disponible": true
       },
       "actualizado": "2026-02-04T10:35:08.640-05:00",
@@ -134132,7 +134132,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 4,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2026-02-04T10:35:08.724-05:00",
