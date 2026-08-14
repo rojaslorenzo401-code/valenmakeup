@@ -45520,7 +45520,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 9,
+        "cantidad": 8,
         "disponible": true
       },
       "actualizado": "2024-10-18T23:33:58.922-05:00",
@@ -53311,7 +53311,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 122,
+        "cantidad": 120,
         "disponible": true
       },
       "actualizado": "2026-05-15T17:18:42.062-05:00",
@@ -82240,7 +82240,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2026-01-11T13:10:49.743-05:00",
@@ -82266,7 +82266,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2026-06-17T00:55:58.680-05:00",
@@ -136870,7 +136870,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 103,
+        "cantidad": 102,
         "disponible": true
       },
       "actualizado": "2024-12-02T11:44:35.280-05:00",
