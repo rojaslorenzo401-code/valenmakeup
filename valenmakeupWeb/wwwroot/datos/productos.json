@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1812,
     "variantes": 2829,
     "categorias": 61,
-    "agotados": 775
+    "agotados": 776
   },
   "categorias": [
     {
@@ -6908,7 +6908,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 75,
+        "cantidad": 74,
         "disponible": true
       },
       "actualizado": "2026-05-01T14:03:23.284-05:00",
@@ -51181,7 +51181,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 16,
+        "cantidad": 15,
         "disponible": true
       },
       "actualizado": "2026-04-24T06:58:00.981-05:00",
@@ -68240,7 +68240,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 5,
+        "cantidad": 4,
         "disponible": true
       },
       "actualizado": "2023-08-23T10:54:51.696-05:00",
@@ -68292,8 +68292,8 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2023-08-23T10:54:51.776-05:00",
       "enlace_cuanto": null
@@ -137374,7 +137374,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2024-03-27T14:42:30.278-05:00",
