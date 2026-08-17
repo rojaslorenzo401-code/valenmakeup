@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1811,
     "variantes": 2829,
     "categorias": 61,
-    "agotados": 785
+    "agotados": 786
   },
   "categorias": [
     {
@@ -129891,8 +129891,8 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2025-06-01T19:26:44.347-05:00",
       "enlace_cuanto": null
@@ -129949,7 +129949,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 9,
+        "cantidad": 8,
         "disponible": true
       },
       "actualizado": "2025-04-24T00:18:46.964-05:00",
