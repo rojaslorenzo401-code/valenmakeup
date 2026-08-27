@@ -42379,7 +42379,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 637,
+        "cantidad": 636,
         "disponible": true
       },
       "actualizado": "2026-04-10T17:53:30.756-05:00",
@@ -42535,7 +42535,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 121,
+        "cantidad": 120,
         "disponible": true
       },
       "actualizado": "2025-11-28T00:45:15.034-05:00",
@@ -91856,8 +91856,8 @@
       "nombre": "Multivitamínico Silver Mujeres +50 años con vitaminas B, C, D3 y E 65unds - Centrum",
       "descripcion_corta": "",
       "descripcion": "Centrum Silver Women's Multivitamin para Mujeres Mayores de 50 Años te ofrece un suplemento multivitamínico/multimineral personalizado que contiene micronutrientes para contribuir al bienestar general del cuerpo. \n\nEsta vitamina con hierro para mujeres contiene nutrientes esenciales, como vitamina D y calcio para fortalecer los huesos, y vitaminas del complejo B para promover la salud cardiovascular (1, 2). \n\nEste multivitamínico para mujeres mayores de 50 años también contiene zinc y vitaminas del complejo B para contribuir al funcionamiento normal del cerebro, y vitaminas A, C y E para la salud ocular. \n\nLos micronutrientes clave de estos multivitamínicos con zinc ayudan a complementar las necesidades nutricionales para promover el bienestar y la vitalidad general (1). Estas vitaminas para mujeres están verificadas como libres de OGM (3) y gluten. \n\nEste multivitamínico con hierro para mujeres tiene una cobertura suave que facilita su ingestión. Simplemente toma un multivitamínico al día para proporcionar a tu cuerpo las vitaminas y minerales esenciales.",
-      "precio": 8500,
-      "precio_anterior": 0,
+      "precio": 5000,
+      "precio_anterior": 8500,
       "moneda": "CRC",
       "publicado": true,
       "imagenes": [
@@ -91879,7 +91879,7 @@
         "cantidad": 8,
         "disponible": true
       },
-      "actualizado": "2025-08-14T12:54:44.302-05:00",
+      "actualizado": "2026-08-27T13:02:58.051-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/f12629"
     },
     {
@@ -134301,7 +134301,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 40,
+        "cantidad": 39,
         "disponible": true
       },
       "actualizado": "2026-08-13T12:21:22.735-05:00",
