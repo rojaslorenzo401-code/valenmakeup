@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1818,
     "variantes": 2852,
     "categorias": 61,
-    "agotados": 752
+    "agotados": 755
   },
   "categorias": [
     {
@@ -11922,7 +11922,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 10,
+        "cantidad": 9,
         "disponible": true
       },
       "actualizado": "2024-11-13T15:04:11.685-05:00",
@@ -14080,7 +14080,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 8,
+        "cantidad": 7,
         "disponible": true
       },
       "actualizado": "2025-11-14T10:26:14.434-05:00",
@@ -14106,7 +14106,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2025-11-14T10:26:14.523-05:00",
@@ -46511,8 +46511,8 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2025-10-27T18:33:23.797-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/37df68"
@@ -52216,7 +52216,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2026-07-31T00:55:45.397-05:00",
@@ -57572,7 +57572,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2026-06-28T18:38:41.667-05:00",
@@ -68202,8 +68202,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2026-02-04T09:04:07.299-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/614c6b"
@@ -68228,8 +68228,8 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2026-02-04T09:04:07.385-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/2e476d"
@@ -79694,7 +79694,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 335,
+        "cantidad": 334,
         "disponible": true
       },
       "actualizado": "2024-12-02T12:03:59.783-05:00",
@@ -79772,7 +79772,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 23,
+        "cantidad": 22,
         "disponible": true
       },
       "actualizado": "2024-06-06T18:29:22.103-05:00",
@@ -82048,7 +82048,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 14,
+        "cantidad": 13,
         "disponible": true
       },
       "actualizado": "2024-08-09T14:44:58.701-05:00",
@@ -89236,7 +89236,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 324,
+        "cantidad": 320,
         "disponible": true
       },
       "actualizado": "2024-11-08T23:54:30.999-05:00",
@@ -89398,7 +89398,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 355,
+        "cantidad": 353,
         "disponible": true
       },
       "actualizado": "2026-05-15T17:55:41.465-05:00",
@@ -121573,7 +121573,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 34,
+        "cantidad": 33,
         "disponible": true
       },
       "actualizado": "2024-08-09T12:37:11.190-05:00",
@@ -121728,7 +121728,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 5,
+        "cantidad": 4,
         "disponible": true
       },
       "actualizado": "2026-06-28T14:23:35.882-05:00",
@@ -137757,7 +137757,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 25,
+        "cantidad": 24,
         "disponible": true
       },
       "actualizado": "2023-12-07T22:54:37.145-05:00",
