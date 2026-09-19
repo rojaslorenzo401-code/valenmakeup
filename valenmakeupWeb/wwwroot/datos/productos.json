@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1873,
     "variantes": 2887,
     "categorias": 62,
-    "agotados": 808
+    "agotados": 809
   },
   "categorias": [
     {
@@ -13177,7 +13177,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 14,
+        "cantidad": 13,
         "disponible": true
       },
       "actualizado": "2025-05-24T22:08:10.847-05:00",
@@ -55770,7 +55770,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 4,
+        "cantidad": 3,
         "disponible": true
       },
       "actualizado": "2024-08-09T18:12:48.437-05:00",
@@ -55856,7 +55856,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 18,
+        "cantidad": 17,
         "disponible": true
       },
       "actualizado": "2024-08-09T18:12:48.336-05:00",
@@ -109249,7 +109249,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 8,
+        "cantidad": 7,
         "disponible": true
       },
       "actualizado": "2025-06-14T17:13:32.248-05:00",
@@ -109281,7 +109281,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 11,
+        "cantidad": 10,
         "disponible": true
       },
       "actualizado": "2025-06-14T17:13:32.196-05:00",
@@ -125458,8 +125458,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2025-06-29T22:09:59.173-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/18a269"
@@ -135240,7 +135240,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2026-05-26T21:48:13.184-05:00",
@@ -135272,7 +135272,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 33,
+        "cantidad": 32,
         "disponible": true
       },
       "actualizado": "2025-02-13T16:15:02.344-05:00",
