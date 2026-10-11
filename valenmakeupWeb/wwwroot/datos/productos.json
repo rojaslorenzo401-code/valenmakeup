@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1870,
     "variantes": 2889,
     "categorias": 62,
-    "agotados": 846
+    "agotados": 845
   },
   "categorias": [
     {
@@ -12984,8 +12984,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 0,
-        "disponible": false
+        "cantidad": 10,
+        "disponible": true
       },
       "actualizado": "2025-06-01T19:24:51.431-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/421303"
@@ -67667,7 +67667,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 10,
+        "cantidad": 130,
         "disponible": true
       },
       "actualizado": "2025-02-15T18:26:41.389-05:00",
