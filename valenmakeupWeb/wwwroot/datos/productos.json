@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1870,
     "variantes": 2818,
     "categorias": 62,
-    "agotados": 786
+    "agotados": 789
   },
   "categorias": [
     {
@@ -10208,7 +10208,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2026-03-12T08:57:51.489-05:00",
@@ -11198,7 +11198,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 122,
+        "cantidad": 118,
         "disponible": true
       },
       "actualizado": "2026-10-03T11:29:27.524-05:00",
@@ -12509,7 +12509,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 31,
+        "cantidad": 30,
         "disponible": true
       },
       "actualizado": "2025-08-27T22:24:47.527-05:00",
@@ -12766,7 +12766,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 10,
+        "cantidad": 9,
         "disponible": true
       },
       "actualizado": "2025-06-01T19:24:51.431-05:00",
@@ -18432,7 +18432,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 9,
+        "cantidad": 8,
         "disponible": true
       },
       "actualizado": "2025-04-23T20:58:51.763-05:00",
@@ -18614,8 +18614,8 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2025-11-13T22:06:16.807-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/ed6063"
@@ -23367,8 +23367,8 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2024-10-19T22:30:38.298-05:00",
       "enlace_cuanto": null
@@ -23404,7 +23404,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 55,
+        "cantidad": 54,
         "disponible": true
       },
       "actualizado": "2024-12-06T18:37:27.081-05:00",
@@ -36735,7 +36735,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2026-07-20T18:13:30.370-05:00",
@@ -36850,7 +36850,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 22,
+        "cantidad": 21,
         "disponible": true
       },
       "actualizado": "2025-11-15T15:38:02.370-05:00",
@@ -47008,7 +47008,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 10,
+        "cantidad": 9,
         "disponible": true
       },
       "actualizado": "2025-06-29T23:16:35.944-05:00",
@@ -47034,7 +47034,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2025-06-29T23:16:36.915-05:00",
@@ -47703,7 +47703,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 15,
+        "cantidad": 14,
         "disponible": true
       },
       "actualizado": "2026-10-10T13:29:58.732-05:00",
@@ -47833,7 +47833,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2026-10-10T13:29:59.082-05:00",
@@ -51736,8 +51736,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2026-06-17T11:38:25.824-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/e1f7f2"
@@ -56211,7 +56211,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 4,
+        "cantidad": 3,
         "disponible": true
       },
       "actualizado": "2026-06-28T18:45:45.318-05:00",
@@ -56243,7 +56243,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 41,
+        "cantidad": 40,
         "disponible": true
       },
       "actualizado": "2025-04-16T13:21:15.967-05:00",
@@ -66513,7 +66513,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 129,
+        "cantidad": 128,
         "disponible": true
       },
       "actualizado": "2025-02-15T18:26:41.389-05:00",
@@ -79945,7 +79945,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 21,
+        "cantidad": 20,
         "disponible": true
       },
       "actualizado": "2025-04-16T16:59:55.159-05:00",
@@ -79971,7 +79971,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2025-08-15T17:03:07.720-05:00",
@@ -82540,7 +82540,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 4,
+        "cantidad": 3,
         "disponible": true
       },
       "actualizado": "2026-06-28T18:14:32.840-05:00",
@@ -92539,7 +92539,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 50,
+        "cantidad": 49,
         "disponible": true
       },
       "actualizado": "2026-08-07T09:19:09.058-05:00",
@@ -92638,7 +92638,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 39,
+        "cantidad": 38,
         "disponible": true
       },
       "actualizado": "2025-07-11T16:46:09.914-05:00",
@@ -92735,7 +92735,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 14,
+        "cantidad": 13,
         "disponible": true
       },
       "actualizado": "2024-03-14T16:26:28.575-05:00",
@@ -105376,7 +105376,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2026-04-10T17:50:02.539-05:00",
@@ -105700,7 +105700,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 5,
+        "cantidad": 4,
         "disponible": true
       },
       "actualizado": "2025-06-28T18:14:50.922-05:00",
@@ -105732,7 +105732,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 10,
+        "cantidad": 9,
         "disponible": true
       },
       "actualizado": "2025-06-28T18:14:50.850-05:00",
@@ -111976,7 +111976,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 6,
+        "cantidad": 5,
         "disponible": true
       },
       "actualizado": "2025-06-29T22:18:52.884-05:00",
@@ -112766,7 +112766,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 12,
+        "cantidad": 11,
         "disponible": true
       },
       "actualizado": "2025-11-15T00:52:55.199-05:00",
@@ -112792,7 +112792,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 5,
+        "cantidad": 4,
         "disponible": true
       },
       "actualizado": "2026-07-21T17:04:54.227-05:00",
@@ -123370,7 +123370,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 27,
+        "cantidad": 26,
         "disponible": true
       },
       "actualizado": "2025-04-27T13:02:43.053-05:00",
@@ -127249,7 +127249,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 6,
+        "cantidad": 5,
         "disponible": true
       },
       "actualizado": "2024-07-15T08:20:29.706-05:00",
@@ -127275,7 +127275,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 3,
+        "cantidad": 2,
         "disponible": true
       },
       "actualizado": "2024-07-15T08:16:08.157-05:00",
@@ -135053,7 +135053,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 7,
+        "cantidad": 6,
         "disponible": true
       },
       "actualizado": "2026-08-13T12:21:22.735-05:00",
