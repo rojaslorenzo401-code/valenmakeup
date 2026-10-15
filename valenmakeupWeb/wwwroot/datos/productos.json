@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1870,
     "variantes": 2818,
     "categorias": 62,
-    "agotados": 789
+    "agotados": 790
   },
   "categorias": [
     {
@@ -33627,7 +33627,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 2,
+        "cantidad": 1,
         "disponible": true
       },
       "actualizado": "2025-12-18T09:26:06.896-05:00",
@@ -33744,7 +33744,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 26,
+        "cantidad": 25,
         "disponible": true
       },
       "actualizado": "2025-04-16T10:55:48.166-05:00",
@@ -38011,8 +38011,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2025-12-18T09:24:20.669-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/cc4279"
@@ -80479,7 +80479,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 16,
+        "cantidad": 15,
         "disponible": true
       },
       "actualizado": "2024-06-06T18:29:22.103-05:00",
@@ -80513,7 +80513,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 322,
+        "cantidad": 321,
         "disponible": true
       },
       "actualizado": "2024-12-02T12:03:59.783-05:00",
@@ -102906,7 +102906,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 6,
+        "cantidad": 5,
         "disponible": true
       },
       "actualizado": "2025-04-17T13:55:21.949-05:00",
