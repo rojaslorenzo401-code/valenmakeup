@@ -54667,7 +54667,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 19,
+        "cantidad": 18,
         "disponible": true
       },
       "actualizado": "2025-02-15T13:42:57.788-05:00",
@@ -54693,7 +54693,7 @@
       "categorias": [],
       "inventario": {
         "controlado": true,
-        "cantidad": 6,
+        "cantidad": 5,
         "disponible": true
       },
       "actualizado": "2025-02-15T13:42:57.871-05:00",
