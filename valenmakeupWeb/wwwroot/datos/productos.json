@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1894,
     "variantes": 2834,
     "categorias": 62,
-    "agotados": 829
+    "agotados": 830
   },
   "categorias": [
     {
@@ -11224,7 +11224,7 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 98,
+        "cantidad": 97,
         "disponible": true
       },
       "actualizado": "2026-10-03T11:29:27.524-05:00",
@@ -12503,8 +12503,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 1,
-        "disponible": true
+        "cantidad": 0,
+        "disponible": false
       },
       "actualizado": "2026-05-15T16:58:54.556-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/f59249"
