@@ -9,7 +9,7 @@
     "productos_principales_o_individuales": 1874,
     "variantes": 2869,
     "categorias": 62,
-    "agotados": 785
+    "agotados": 783
   },
   "categorias": [
     {
@@ -64800,8 +64800,8 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 0,
-        "disponible": false
+        "cantidad": 3,
+        "disponible": true
       },
       "actualizado": "2026-09-06T11:38:04.472-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/7f886c"
@@ -124171,7 +124171,7 @@
       "nombre": "Suero Ácido Azelaico 12% - TIRTIR",
       "descripcion_corta": "",
       "descripcion": "Piel calmada, radiante y equilibrada: ¡Comienza aquí!\n\nControla los brotes, el enrojecimiento y el tono desigual con el sérum TIRTIR de ácido azelaico al 12%, un sérum de tratamiento específico con un 12% de ácido azelaico, PCA de zinc y pantenol. Clínicamente probado para hidratar, calmar la irritación y reducir visiblemente el enrojecimiento, este sérum de rápida absorción limpia y refina suavemente la piel propensa al acné sin alterar la barrera de hidratación.\n\nCaracterísticas y beneficios clave\n\nCuidado eficaz y suave para imperfecciones\nEl ácido azelaico al 12% desobstruye los poros, suaviza la textura y atenúa las marcas de acné, sin irritar la piel.\n\nEquilibrio hidrolipídico para piel propensa al acné\nEl PCA de zinc regula el exceso de sebo, mientras que el pantenol y la tecnología Heal-zip™ proporcionan una hidratación profunda, manteniendo la piel calmada y suave.\n\nHidratación y alivio del enrojecimiento clínicamente probados\n\nAumento del 201,79 % en la hidratación de la piel externa\n\nReducción del 73,40 % en el enrojecimiento tras su uso\n\nAumento del 10,52 % en la hidratación interna\n\nIdeal para pieles grasas, deshidratadas y sensibles\nFormulado para combatir los brotes recurrentes, el exceso de brillo y la barrera de hidratación debilitada, este sérum favorece una piel más limpia y calmada día tras día.",
-      "precio": 15900,
+      "precio": 17000,
       "precio_anterior": 0,
       "moneda": "CRC",
       "publicado": true,
@@ -124191,10 +124191,10 @@
       ],
       "inventario": {
         "controlado": true,
-        "cantidad": 0,
-        "disponible": false
+        "cantidad": 3,
+        "disponible": true
       },
-      "actualizado": "2026-09-06T16:49:10.927-05:00",
+      "actualizado": "2026-11-17T12:13:08.296-05:00",
       "enlace_cuanto": "https://cuanto.app/valenmakeup/w/792a6c"
     },
     {
